@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Oi, me chamo Gabriel, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, com interesse na área de dados. Atualmente, estudo Python e SQL para aprofundar meus conhecimentos em tecnologia.
+Me chamo Gabriel, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, com interesse na área de dados. Atualmente, estudo Python e SQL para aprofundar meus conhecimentos em tecnologia.
 
 
 ---
